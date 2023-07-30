@@ -2,11 +2,11 @@
 from game import SnakeGameAI
 import random
 import numpy as np
-from keras import Sequential
+from tensorflow.keras import Sequential
 from collections import deque
-from keras.layers import Dense
+from tensorflow.keras.layers import Dense
 import matplotlib.pyplot as plt
-from keras.optimizers import Adam
+from tensorflow.keras.optimizers import Adam
 from helper import plot
 import imageio
 import time
