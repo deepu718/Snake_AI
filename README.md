@@ -17,9 +17,12 @@
 ## How It Went
 1. For first few eps it went randomly .
 2. around 20-25 ep it starts to go towards food consistently.
-![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_19_score_2.gif)![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_26_score_11.gif)
+
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_19_score_2.gif)
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_26_score_11.gif)
 3. around 40 ep it start getting score over 15.
-![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_37_score_19.gif)![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_38_score_23.gif)
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_37_score_19.gif)
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_38_score_23.gif)
 5. Best run was at ep 102 with a score of 29.
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
  
