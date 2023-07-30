@@ -30,6 +30,10 @@
 
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
  
- 5. In the end avg score was around 14.
+ 5. In the end avg score was around 14 for 200 eps.
+ 
+## Future Enhancements
+1. By using the game screen as an image, the agent gains access to a more comprehensive view of the game state, including its own position, the position of the food, and any obstacles (the snake's body or walls) in the environment. This enables the agent to potentially learn patterns and spatial relationships that might not be as apparent in a simplified state representation.
+2. Implementing other policy gradient algorithms like Actor-Critic method or Proximal Policy Optimization (PPO) or Trust Region Policy Optimization (TRPO) to explore different reinforcement learning techniques.
  
  
