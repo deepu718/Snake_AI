@@ -21,7 +21,7 @@
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_19_score_2.gif)
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_26_score_11.gif)
 
-3. around 40 ep it start getting score over 15.
+3. around 40 ep it start getting score over 10.
 
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_37_score_19.gif)
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_38_score_23.gif)
@@ -30,5 +30,6 @@
 
 ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
  
+ 5. In the end avg score was around 14.
  
  
