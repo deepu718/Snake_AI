@@ -14,7 +14,27 @@
  3. Run the `agent.py` script.
  4. It will Display the game running and also output the graph of score and mean_score per game.
 
- ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
+## How It Went
+1. For first few eps it went randomly .
+2. around 20-25 ep it starts to go towards food consistently.
+
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_19_score_2.gif)
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_26_score_11.gif)
+
+3. around 40 ep it start getting score over 10.
+
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_37_score_19.gif)
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_38_score_23.gif)
+
+4. Best run was at ep 102 with a score of 29.
+
+![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
  
+ 5. In the end avg score was around 14 for 200 eps.
+ 
+## Future Enhancements
+1. By using the game screen as an image, the agent gains access to a more comprehensive view of the game state, including its own position, the position of the food, and any obstacles (the snake's body or walls) in the environment. This enables the agent to potentially learn patterns and spatial relationships that might not be as apparent in a simplified state representation.
+2. Implementing other policy gradient algorithms like Actor-Critic method or Proximal Policy Optimization (PPO) or Trust Region Policy Optimization (TRPO) to explore different reinforcement learning techniques.
+3. Adapting the DQN to play other classic arcade games, showcasing its versatility and adaptability.
  
  
