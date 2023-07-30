@@ -13,7 +13,7 @@
  2. Install the required dependencies mentioned in the `requirements.txt` file.
  3. Run the `agent.py` script.
  4. It will Display the game running and also output the graph of score and mean_score per game.
- ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
+           ![](https://github.com/deepu718/Snake_AI/blob/main/snake_gif/episode_102_score_29.gif)
  
  
  
