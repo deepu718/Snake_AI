@@ -35,5 +35,6 @@
 ## Future Enhancements
 1. By using the game screen as an image, the agent gains access to a more comprehensive view of the game state, including its own position, the position of the food, and any obstacles (the snake's body or walls) in the environment. This enables the agent to potentially learn patterns and spatial relationships that might not be as apparent in a simplified state representation.
 2. Implementing other policy gradient algorithms like Actor-Critic method or Proximal Policy Optimization (PPO) or Trust Region Policy Optimization (TRPO) to explore different reinforcement learning techniques.
+3. Adapting the DQN to play other classic arcade games, showcasing its versatility and adaptability.
  
  
